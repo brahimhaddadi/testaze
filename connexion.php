@@ -1,5 +1,5 @@
 <?php
-$host = '127.0.0.1'; // À l'IUT : 'iutinfo-sgbd.uphf.fr'
+$host = 'host.docker.internal'; // Hors Docker : '127.0.0.1' ; à l'IUT : 'iutinfo-sgbd.uphf.fr'
 $dbname = 'iutinfo601';
 $user = 'iutinfo601'; // À l'IUT, l'utilisateur est généralement identique au nom de la base
 $password = 'q/eA/Sp6';
